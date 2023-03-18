@@ -1,0 +1,10 @@
+{
+    "users" : [
+        {"name" : "Berkay","password" : "123","usertype" : "admin"},
+        {"name" : "Kerim","password" : "321","usertype" : "MeMbEr"},
+        {"name" : "Selim","password" : "456","usertype" : "Admin"},
+        {"name" : "Mahmut","password" : "321","usertype" : "MEMber"},
+        {"name" : "Selin","password" : "789","usertype" : "MEMBER"},
+        {"name" : "Fatih","password" : "157","usertype" : "member"}
+    ]
+}
